@@ -129,6 +129,8 @@ componentDidMount = () => {
 
   )
 }
+//..
+
 
 Weather = () => {
   return(
